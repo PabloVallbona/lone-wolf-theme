@@ -13,7 +13,7 @@ It uses
 - [bootswatch wrappers][bootswatch]
 - [animate.css][ani-css].
 
-## Who uses it
+## Who uses it, NOT ME
 
 - [Lone wolf theme docs][1]
 
