@@ -10,7 +10,7 @@
 plugins:
   - jekyll-remote-theme
 
-remote_theme: username/lone-wolf-theme
+remote_theme: pablovallbona/lone-wolf-theme
 
 #theme: "lone-wolf-theme"
 #remote_theme:  "manid2/lone-wolf-theme"
